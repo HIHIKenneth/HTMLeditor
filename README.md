@@ -41,3 +41,7 @@ PORT=8877 node manual-annotator-server.mjs "/absolute/path/to/your.html"
 - 图片保存只允许写回当前 HTML 所在目录下的 PNG 图片。
 - 历史版本保存在当前 HTML 所在目录的 `assets/manual-history/`。
 - “打包 HTML”会生成新文件，不会覆盖原 HTML。
+
+## 文档
+
+- [交互文档](./INTERACTION.md)
