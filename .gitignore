@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+assets/manual-history/
+*-打包版.html

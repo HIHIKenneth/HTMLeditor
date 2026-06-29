@@ -1,0 +1,17 @@
+{
+  "name": "htmleditor",
+  "version": "1.0.0",
+  "description": "Local HTML screenshot annotation, text editing, and self-contained HTML packaging tool.",
+  "type": "module",
+  "scripts": {
+    "start": "node manual-annotator-server.mjs",
+    "check": "node --check manual-annotator-server.mjs && node --check manual-tools.js"
+  },
+  "keywords": [
+    "html",
+    "annotation",
+    "editor",
+    "packager"
+  ],
+  "license": "MIT"
+}
